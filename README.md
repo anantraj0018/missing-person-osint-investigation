@@ -19,7 +19,7 @@ The investigation began with images provided by the TryHackMe challenge. Various
 
 ## Tools and Techniques
 
-| Tool / Technique | Purpose |
+| Tool / Technique ||Purpose |
 |---|---|
 | Google Search | Information discovery |
 | Reverse Image Search | Image identification |
