@@ -157,4 +157,4 @@ The techniques documented in this repository should only be used for legal, ethi
 **Anant Raj**
 B.Tech Computer Science & Engineering  
 GLA University, Mathura
-**Focus:** Cybersecurity | OSINT | Digital Investigation
+**Focus:** Cybersecurity | OSINT | Digital Investigation.
