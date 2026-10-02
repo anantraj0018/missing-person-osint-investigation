@@ -145,7 +145,7 @@ When an initial search produced ambiguous or incorrect results, alternative clue
 - Evidence correlation
 
   ## Detailed Report
-The complete investigation report, including screenshots, methodology, evidence, and findings, is available in the `Report` folder.
+The complete investigation report, including screenshots, methodology, evidence, and findings, is available in the `Report` folder
 [View the Investigation Report](Report/Missing-Person-OSINT-Investigation.pdf)
 
 
